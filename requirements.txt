@@ -1,0 +1,5 @@
+wheel
+scipy
+ipython
+jupyter
+altair
